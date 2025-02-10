@@ -1,7 +1,5 @@
-# 데이콘 감귤 착과량 예측 AI 경진대회
-2022-DACON-Citrus-fruits-harvested-Prediction-Competition
-
-<br/>
+# 2022 DACON Citrus fruits harvested Prediction Competition
+### 감귤 착과량 예측 AI 개발
 
 ## 1. 배경 & 목적
 
